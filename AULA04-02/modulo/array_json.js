@@ -307,7 +307,7 @@ const cadastroDeProdutos = function(){
 
      console.log('Exemplo de como pesquisar um produto pela cor do produto')
 
-     let nomeCor = 'rosa'
+     let nomeCor = 'Preto'
 
      produtos.forEach(function(itemProduto){
        itemProduto.cor.forEach(function(itemCor){
